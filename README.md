@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @damianocsl
+- 👋 Hi, I’m Damiano
 - 👀 I’m a Frontend Software Engineer
