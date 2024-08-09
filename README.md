@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Damiano
 - 👀 I’m a Frontend Software Engineer
 
+![Damiano's GitHub stats](https://github-readme-stats.vercel.app/api?username=damianocsla&show_icons=true&bg_color=00000000)
+
 ---
 
 ## What I use to code...
