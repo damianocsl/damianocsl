@@ -6,7 +6,7 @@
 ## Languages I know...
 
 [![Generic badge](https://img.shields.io/badge/IT-NATIVE-<COLOR>.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/EN-B2-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/EN-C1-<COLOR>.svg)](https://shields.io/)
 
 
 ## What I use to code...
