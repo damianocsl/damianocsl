@@ -3,12 +3,6 @@
 
 ---
 
-## Languages I know...
-
-[![Generic badge](https://img.shields.io/badge/IT-NATIVE-<COLOR>.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/EN-C1-<COLOR>.svg)](https://shields.io/)
-
-
 ## What I use to code...
 
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -31,3 +25,8 @@
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/damianocsl)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damianocasula/)
 [![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/damianocasula)
+
+## Languages I know...
+
+[![Generic badge](https://img.shields.io/badge/IT-NATIVE-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/EN-C1-<COLOR>.svg)](https://shields.io/)
